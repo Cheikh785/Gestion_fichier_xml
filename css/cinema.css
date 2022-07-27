@@ -1,0 +1,53 @@
+body {
+    padding: 0;
+    margin: 0;
+    /* height: 968px; */
+    background-image: linear-gradient(to bottom right, #72d6f2a2, #cbe0e6a2, #ebeded43);
+    background-repeat: no-repeat;
+}
+#film select {
+    border: 3px dashed rgb(233, 117, 15);
+    border-radius: 5px;
+    width: 110%;
+    margin-left: 47%;
+    height: 150px;
+    /* overflow-y: hidden; */
+}
+.title-cinema {
+    color: rgb(178, 107, 8);
+    font-size: 22px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.title-cinema h1 {
+    font-size: 50px;
+    text-align: center;
+}
+.option {
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    text-align: center;
+    /* padding-left: 40%;
+    padding-right: 40%; */
+}
+.valider {
+    margin-left: 25%;
+    margin-top: 1%; 
+    display: flex;
+    justify-content: center;
+}
+.valider button {
+    font-size: 120%;
+}
+.list-film {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 10px;
+}
+table {
+    border: 2px solid rgb(8, 8, 101);
+    border-radius: 25px;
+}
+.test {
+    margin-top: 50%;
+}

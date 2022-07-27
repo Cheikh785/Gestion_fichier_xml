@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cinema SYSTEM "../xml/exo2.dtd">
+<cinema>
+<film><titre>one piece</titre><duree>02:30</duree><genre>shonen</genre><realisateur>echiro oda</realisateur><acteurs>mugiwara</acteurs><année>1997</année><langue>japonais</langue><intrigue>luffy wa kaizoku o ni naru otoko da</intrigue><horaire>Lundi 16h - Mardi 20h</horaire><notes>19</notes></film><film><titre>Naruto</titre><duree>01:30</duree><genre>Shonen</genre><realisateur>matsumoto</realisateur><acteurs>Naruto</acteurs><année>1999</année><langue>Japonais</langue><intrigue>Naruto wa saiko no hokage</intrigue><horaire>Mercredi 21h - Samedi 10h</horaire><notes>15</notes></film><film><titre>Bleach</titre><duree>02:00</duree><genre>Shonen</genre><realisateur>Abe</realisateur><acteurs>Ichigo Kurasaki</acteurs><année>1996</année><langue>Japonais</langue><intrigue>Ichigo Aizen Hollow Quincy</intrigue><horaire>Dimanche 9h - Mardi 17h</horaire><notes>14</notes></film></cinema>

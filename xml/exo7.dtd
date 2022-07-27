@@ -1,0 +1,18 @@
+<!ELEMENT portail (fiche+)>
+<!ELEMENT fiche (coordonnées, carte, menus*)>
+<!ELEMENT coordonnées (nom, adresse, restaurateur, description?)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT adresse (#PCDATA)>
+<!ELEMENT restaurateur (#PCDATA)>
+<!ELEMENT description (liste?, paragraphe, partie?)>
+<!ELEMENT liste (#PCDATA)>
+<!ELEMENT partie (#PCDATA)>
+<!ELEMENT paragraphe (#PCDATA | img)*>
+<!ATTLIST img url NMTOKENS #REQUIRED>
+<!ELEMENT carte (plat+)>
+<!ELEMENT plat (paragraphe, prix)>
+<!ELEMENT prix (#PCDATA)>
+<!ATTLIST prix devise (dollar | fcfa | euro ) #REQUIRED>
+<!ATTLIST plat repas (entrée | dessert | Plat | fromage) #REQUIRED>
+<!ELEMENT menus (titre, paragraphe, prix)>
+<!ELEMENT titre (#PCDATA)>

@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to bottom right, #f38211, #fab76a75);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.title {
+    color: rgb(26, 8, 8);
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.nbFiche {
+    display: none;
+}
+.subtitle {
+    color: rgb(76, 3, 92);
+}
+.test {
+    /* display: none; */
+    margin-top: 12.7%;
+}
+.valider #addFiche {
+    margin-left: -1%;
+}
+.valider #addFiche {
+    margin-left: -1.5%;
+}
+.valider #validerFiche {
+    margin-left: 32%;
+    font-size: 22px;
+}

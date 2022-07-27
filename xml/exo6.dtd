@@ -1,0 +1,14 @@
+<!ELEMENT examen (classe, matiere, prof, titre, date, Exercice, Exercice, Exercice, Exercice, Exercice, Exercice, Exercice, Exercice, Exercice, Exercice, Exercice?)>
+<!ATTLIST examen code_cours NMTOKEN #REQUIRED>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date annee NMTOKEN #REQUIRED
+               mois (Janvier | Fevrier | Mars | Avril | Mai | Juin | Juillet | Aout | Septembre | Octobre | Novembre | Decembre) #REQUIRED>
+<!ELEMENT classe (#PCDATA)>
+<!ELEMENT matiere (#PCDATA)>
+<!ELEMENT prof (nom, prenom)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT Exercice (description?, question+)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT question (#PCDATA | question)*>

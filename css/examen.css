@@ -1,0 +1,75 @@
+body {
+    padding: 0;
+    margin: 0;
+    padding-bottom: 5%;
+    background-image: linear-gradient(to right, #fcd527a2, #fcd52784, #fbfbfb43);
+}
+#examen select {
+    border: 3px dashed rgb(246, 220, 48);
+    border-radius: 5px;
+    width: 110%;
+    margin-left: 50%;
+    height: 150px;
+    /* overflow-y: hidden; */
+}
+.title-examen {
+    color: rgb(50, 50, 2);
+    font-size: 22px;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+.title-examen h1 {
+    font-size: 50px;
+    text-align: center;
+}
+.option {
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.valider button {
+    margin-left: 95%;
+    margin-top: 1%;
+    font-size: 120%;
+}
+.devoir-surveille {
+    text-align: center;
+    background-color: yellow;
+    margin-left: 6%;
+    padding: 0.5%;
+}
+.resume {
+    margin-left: 36%;
+}
+.matiere, .date, .professeur, .classe {
+    font-weight: bold;
+    font-size: 18px;
+}
+.deux-point-matiere {
+    margin-left: 12%;
+    margin-right: 10%;
+}
+.deux-point-date {
+    margin-left: 15.5%;
+    margin-right: 10%;
+}
+.deux-point-professeur {
+    margin-left: 9%;
+    margin-right: 10%;
+}
+.deux-point-classe {
+    margin-left: 14%;
+    margin-right: 10%;
+} 
+.exercice .title-exo {
+    margin-left: 3%;
+    text-decoration: underline;
+}
+.contenu .description {
+    margin-left: 10%;
+    font-style: italic;
+}
+.contenu .qestion {
+    margin-left: 3%;
+}

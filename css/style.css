@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0%;
+    background-image: linear-gradient(to bottom right, #72d6f2a2, #cbe0e6a2, #ebeded43);
+    height: 100vh;
+}
+
+.titre {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.valider .btn-primary {
+    letter-spacing: 3px;
+}
+.nbFilm {
+    display: none;
+}
+.valider {
+    margin-left: -1.5%;
+}
+.container .form-group {
+    padding-right: 15px;
+}

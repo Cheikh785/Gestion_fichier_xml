@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE examen SYSTEM "../xml/exo6.dtd">
+<examen code_cours="">
+<classe/><matiere/><prof><nom/><prenom/></prof><date annee="" mois=""/><Exercice><description/><question/></Exercice><Exercice><description/><question/></Exercice><Exercice><description/><question/></Exercice><Exercice><description/><question/></Exercice><Exercice><description/><question/></Exercice><Exercice><description/><question/></Exercice><Exercice><description/><question/></Exercice><Exercice><description/><question/></Exercice><Exercice><description>qq</description><question/></Exercice><Exercice><description/><question/></Exercice></examen>

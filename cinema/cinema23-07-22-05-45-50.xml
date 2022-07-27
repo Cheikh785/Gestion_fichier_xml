@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cinema SYSTEM "../xml/exo2.dtd">
+<cinema>
+<film><titre>a</titre><duree>a</duree><genre>a</genre><realisateur>a</realisateur><acteurs>a</acteurs><année>a</année><langue>a</langue><intrigue>a</intrigue><horaire>a</horaire><notes>a</notes></film><film><titre>b</titre><duree>b</duree><genre>b</genre><realisateur>b</realisateur><acteurs>b</acteurs><année>b</année><langue>b</langue><intrigue>b</intrigue><horaire>b</horaire><notes>b</notes></film><film><titre>c</titre><duree>c</duree><genre>c</genre><realisateur>c</realisateur><acteurs>c</acteurs><année>c</année><langue>c</langue><intrigue>c</intrigue><horaire>c</horaire><notes>c</notes></film><film><titre>d</titre><duree>d</duree><genre>d</genre><realisateur>d</realisateur><acteurs>d</acteurs><année>d</année><langue>d</langue><intrigue>d</intrigue><horaire>d</horaire><notes>d</notes></film></cinema>

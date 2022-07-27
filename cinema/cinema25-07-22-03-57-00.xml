@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cinema SYSTEM "../xml/exo2.dtd">
+<cinema>
+<film><titre>film1</titre><duree>21:56</duree><genre>horreur</genre><realisateur>cheikh</realisateur><acteurs>diao botel</acteurs><année>2022-07-24</année><langue>français</langue><intrigue>qlq chose</intrigue><horaire>horraire</horaire><notes>note</notes></film></cinema>

@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="portail">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="fiche" minOccurs="1">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="coordonnées">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="nom" type="xsd:string"/>
+                                        <xsd:element name="adresse" type="xsd:string"/>
+                                        <xsd:element name="restaurateur" type="xsd:string"/>
+                                        <xsd:element name="description" type="Description"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="carte">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="plat" minOccurs="1">
+                                            <xsd:complexType>
+                                                <xsd:sequence>
+                                                    <xsd:element name="paragraphe" type="Paragraphe"/>
+                                                </xsd:sequence>
+                                                <xsd:attribute name="prix" use="required">
+                                                    <xsd:simpleType>
+                                                        <xsd:restriction base="xsd:NMTOKEN">
+                                                            <xsd:enumeration value="fcfa"/>
+                                                            <xsd:enumeration value="dollar"/>
+                                                            <xsd:enumeration value="euro"/>
+                                                        </xsd:restriction>
+                                                    </xsd:simpleType>
+                                                </xsd:attribute>
+                                                <xsd:attribute name="repas" use="required">
+                                                    <xsd:simpleType>
+                                                        <xsd:restriction base="xsd:NMTOKEN">
+                                                            <xsd:enumeration value="entree"/>
+                                                            <xsd:enumeration value="dessert"/>
+                                                            <xsd:enumeration value="plat"/>
+                                                            <xsd:enumeration value="fromage"/>
+                                                        </xsd:restriction>
+                                                    </xsd:simpleType>
+                                                </xsd:attribute>
+                                            </xsd:complexType>
+                                        </xsd:element>    
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="menu" minOccurs="0">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="titre" type="xsd:string"/>
+                                        <xsd:element name="description" type="Description"/>
+                                    </xsd:sequence>
+                                    <xsd:attribute name="prix" use="required">
+                                        <xsd:simpleType>
+                                            <xsd:restriction base="xsd:NMTOKEN">
+                                                <xsd:enumeration value="fcfa"/>
+                                                <xsd:enumeration value="dollar"/>
+                                                <xsd:enumeration value="euro"/>
+                                            </xsd:restriction>
+                                        </xsd:simpleType>
+                                    </xsd:attribute>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:complexType name="Paragraphe">
+        <xsd:sequence>
+            <xsd:element name="texte" type="xsd:string"/>
+            <xsd:element name="img" type="xsd:string"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="Description">
+        <xsd:sequence>
+            <xsd:element name="liste" type="xsd:string"/>
+            <xsd:element name="partie" type="xsd:string"/>
+            <xsd:element name="paragraphe" type="Paragraphe"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

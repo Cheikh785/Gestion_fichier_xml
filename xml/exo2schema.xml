@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="cinema" type="Cinema"/>
+    <xsd:complexType name="Cinema">
+        <xsd:sequence>
+            <xsd:element name="film" minOccurs="1">
+                <xsd:complexType>
+                    <xsd:all>
+                        <xsd:element name="titre" type="xsd:string"/>
+                        <xsd:element name="genre" type="xsd:string"/>
+                        <xsd:element name="realisateur" type="xsd:string"/>
+                        <xsd:element name="duree" type="xsd:string"/>
+                        <xsd:element name="acteur" type="xsd:string"/>
+                        <xsd:element name="annee" type="xsd:string"/>
+                        <xsd:element name="langue" type="xsd:string"/>
+                        <xsd:element name="intrigue" type="xsd:string"/>
+                        <xsd:element name="horaire" type="xsd:string" minOccurs="1"/>
+                        <xsd:element name="note" type="xsd:integer" minOccurs="0" maxOccurs="1"/>
+                    </xsd:all>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

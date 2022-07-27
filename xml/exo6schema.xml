@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="examen">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="classe" type="xsd:string"/>
+                <xsd:element name="matiere" type="xsd:string"/>
+                <xsd:element name="prof">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="nom" type="xsd:string"/>
+                            <xsd:element name="prenom" type="xsd:string"/>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:element name="titre" type="xsd:string"/>
+                <xsd:element name="date">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="annee" type="xsd:integer"/>
+                            <xsd:element name="mois">
+                                <xsd:simpleType>
+                                    <xsd:restriction base="xsd:NMTOKEN">
+                                        <xsd:enumeration value="janvier"/>
+                                        <xsd:enumeration value="fevrier"/>
+                                        <xsd:enumeration value="mars"/>
+                                        <xsd:enumeration value="avril"/>
+                                        <xsd:enumeration value="mai"/>
+                                        <xsd:enumeration value="juin"/>
+                                        <xsd:enumeration value="juillet"/>
+                                        <xsd:enumeration value="aout"/>
+                                        <xsd:enumeration value="septembre"/>
+                                        <xsd:enumeration value="octobre"/>
+                                        <xsd:enumeration value="novembre"/>
+                                        <xsd:enumeration value="decembre"/>
+                                    </xsd:restriction>
+                                </xsd:simpleType>
+                            </xsd:element>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:element name="exercie" minOccurs="10" maxOccurs="11">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="description" type="xsd:string"/>
+                            <xsd:element name="question" minOccurs="1">
+                                <xsd:complexType>
+                                    <xsd:all>
+                                        <xsd:element name="partie" type="xsd:string"/>
+                                        <xsd:element name="question" />
+                                    </xsd:all>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:attribute name="code_cours" type="xsd:NMTOKEN" use="required"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
