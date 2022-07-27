@@ -4,7 +4,9 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 
 # Screenshots
 ## Examen
-
+  ![Screenshot page examen](captures/examen1.png)
+  ![Screenshot page examen](captures/examen2.png)
+  ![Screenshot page examen](captures/examen3.png)
 ## Cinéma 
 
 ## Portail
