@@ -12,9 +12,9 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot page examen](captures/cine2.PNG)
   ![Screenshot page examen](captures/cine3.PNG)
 ## Portail
-  ![Screenshot page examen](captures/portail1.PNG)
-  ![Screenshot page examen](captures/portail2.PNG)
-  ![Screenshot page examen](captures/portail3.PNGSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS)
+  ![Screenshot page examen](captures/fiche1.PNG)
+  ![Screenshot page examen](captures/fiche2.PNG)
+  ![Screenshot page examen](captures/fiche3.PNG)
 
 ## Project Status 
 Complete 
