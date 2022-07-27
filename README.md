@@ -4,12 +4,17 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 
 # Screenshots
 ## Examen
-  ![Screenshot page examen](captures/examen1.png)
-  ![Screenshot page examen](captures/examen2.png)
-  ![Screenshot page examen](captures/examen3.png)
+  ![Screenshot page examen](captures/exam1.png)
+  ![Screenshot page examen](captures/examam2.png)
+  ![Screenshot page examen](captures/exam3.png)
 ## Cinéma 
-
+  ![Screenshot page examen](captures/cine1.png)
+  ![Screenshot page examen](captures/cine2.png)
+  ![Screenshot page examen](captures/cine3.png)
 ## Portail
+  ![Screenshot page examen](captures/portail1.png)
+  ![Screenshot page examen](captures/portail2.png)
+  ![Screenshot page examen](captures/portail3.png)
 
 ## Project Status 
 Complete 
