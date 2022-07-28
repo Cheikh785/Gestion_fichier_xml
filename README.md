@@ -58,7 +58,7 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 
   ![Screenshot page examen](captures/fiche1.PNG)
   
- > On voit qu'on a la possibilité de créer plusieurs fiche.
+ > On voit qu'on a la possibilité de créer plusieurs fiches.
  
   ![Screenshot page examen](captures/fiche2.PNG)
   
