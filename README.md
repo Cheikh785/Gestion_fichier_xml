@@ -24,13 +24,13 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 # Result's screenshots
 ## Examen
   Ici on a le formulaire de création d'un examen contenant des informations générales sur l'examen et la liste des exercices.
-  ![Screenshot page examen](captures/exam1.png)
+  ![Screenshot page examen](captures/exam1.PNG)
   
   On voit que pour un exercice donné, on peut avoir un à plusieurs questions. On peut pas avoir plus de 11 exercices. Les dix premiers exercices sont obligatoires tandis le onzième est optionnel.
-  ![Screenshot page examen](captures/exam2.png)
+  ![Screenshot page examen](captures/exam2.PNG)
   
   C'est là où on affiche la liste des examens disponibles. On en choisi un et on le visualise.
-  ![Screenshot page examen](captures/exam3.png)
+  ![Screenshot page examen](captures/exam3.PNG)
   
 ## Cinéma 
 Ceci est le formulaire de création d'un programme de cinéma contenant toutes les informations nécéssaires relatives au film.
