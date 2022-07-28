@@ -4,9 +4,9 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 
 # XML's screenshots
 ## Examen
-. DTD
+   . DTD
   ![Screenshot DTD examen](captures/exo6DTD.png)
-. Schéma
+  . Schéma
   ![Screenshot schéma examen](captures/exo6Schema1.png)
   ![Screenshot schéma examen](captures/exo6Schema2.png)
   
