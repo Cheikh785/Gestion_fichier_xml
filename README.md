@@ -11,13 +11,13 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot schéma examen](captures/exo6Schema2.png)
   
 ## Cinéma
-#### DTD
+    #### DTD
   ![Screenshot DTD examen](captures/exo2DTD.png)
-#### Schéma
+    #### Schéma
   ![Screenshot schéma examen](captures/exo2Schema.png)
 
 ## Portail restaurant 
-#### DTD
+    #### DTD
   ![Screenshot DTD examen](captures/exo7DTD.png)
 #### Schéma
   ![Screenshot schéma examen](captures/exo7Schema1.png)
