@@ -38,7 +38,7 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot page examen](captures/exam3.PNG)
   
 ## Cinéma 
-Ceci est le formulaire de création d'un programme de cinéma contenant toutes les informations nécéssaires relatives au film.
+> Ceci est le formulaire de création d'un programme de cinéma contenant toutes les informations nécéssaires relatives au film.
   ![Screenshot page examen](captures/cine1.PNG)
   
 On voit qu'on a la possibilité d'ajouter autant de films que l'on veut.
