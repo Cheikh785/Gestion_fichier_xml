@@ -5,12 +5,21 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 # XML's screenshots
 ## Examen
 #### DTD
+  ![Screenshot DTD examen](captures/exo6DTD.png)
+#### Schéma
+  ![Screenshot schéma examen](captures/exo6Schema.png)
+  
+## Cinéma
+#### DTD
   ![Screenshot DTD examen](captures/exo2DTD.png)
 #### Schéma
   ![Screenshot schéma examen](captures/exo2Schema.png)
-## Cinéma
 
 ## Portail restaurant 
+#### DTD
+  ![Screenshot DTD examen](captures/exo7DTD.png)
+#### Schéma
+  ![Screenshot schéma examen](captures/exo7Schema.png)
 
 # Result's screenshots
 ## Examen
