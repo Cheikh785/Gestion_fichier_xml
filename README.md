@@ -4,41 +4,44 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 
 # XML's screenshots
 ## Examen
-      . DTD
+      DTD
   ![Screenshot DTD examen](captures/exo6DTD.png)
-  . Schéma
+  
+     Schéma
   ![Screenshot schéma examen](captures/exo6Schema1.png)
   ![Screenshot schéma examen](captures/exo6Schema2.png)
   
 ## Cinéma
-  #### DTD
+      DTD
   ![Screenshot DTD examen](captures/exo2DTD.png)
-    #### Schéma
+  
+      Schéma
   ![Screenshot schéma examen](captures/exo2Schema.png)
 
 ## Portail restaurant 
-    #### DTD
+    DTD
   ![Screenshot DTD examen](captures/exo7DTD.png)
-#### Schéma
+  
+      Schéma
   ![Screenshot schéma examen](captures/exo7Schema1.png)
   ![Screenshot schéma examen](captures/exo7Schema2.png)
 
 # Result's screenshots
 ## Examen
-  Ici on a le formulaire de création d'un examen contenant des informations générales sur l'examen et la liste des exercices.
+      Ici on a le formulaire de création d'un examen contenant des informations générales sur l'examen et la liste des exercices.
   ![Screenshot page examen](captures/exam1.PNG)
   
-  On voit que pour un exercice donné, on peut avoir un à plusieurs questions. On peut pas avoir plus de 11 exercices. Les dix premiers exercices sont obligatoires tandis le onzième est optionnel.
+      On voit que pour un exercice donné, on peut avoir un à plusieurs questions. On peut pas avoir plus de 11 exercices. Les dix premiers exercices sont obligatoires tandis le onzième est optionnel.
   ![Screenshot page examen](captures/exam2.PNG)
   
-  C'est là où on affiche la liste des examens disponibles. On en choisi un et on le visualise.
+      C'est là où on affiche la liste des examens disponibles. On en choisi un et on le visualise.
   ![Screenshot page examen](captures/exam3.PNG)
   
 ## Cinéma 
 Ceci est le formulaire de création d'un programme de cinéma contenant toutes les informations nécéssaires relatives au film.
   ![Screenshot page examen](captures/cine1.PNG)
   
-  On voit qu'on a la possibilité d'ajouter autant de films que l'on veut.
+On voit qu'on a la possibilité d'ajouter autant de films que l'on veut.
   ![Screenshot page examen](captures/cine2.PNG)
   
   Lorsqu'on valide, on est redirigé vers la page d'affichage des programmes de cinéma. On en choisi un et on visualise la liste de ses films.
