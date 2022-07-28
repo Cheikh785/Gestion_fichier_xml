@@ -41,24 +41,30 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot page examen](captures/exam3.PNG)
   
 ## Cinéma 
-      Ceci est le formulaire de création d'un programme de cinéma contenant toutes les informations nécéssaires relatives au film.
+> Ceci est le formulaire de création d'un programme de cinéma contenant toutes les informations nécéssaires relatives au film.
+
   ![Screenshot page examen](captures/cine1.PNG)
   
-On voit qu'on a la possibilité d'ajouter autant de films que l'on veut.
+> On voit qu'on a la possibilité d'ajouter autant de films que l'on veut.
+
   ![Screenshot page examen](captures/cine2.PNG)
   
-  Lorsqu'on valide, on est redirigé vers la page d'affichage des programmes de cinéma. On en choisi un et on visualise la liste de ses films.
+ > Lorsqu'on valide, on est redirigé vers la page d'affichage des programmes de cinéma. On en choisi un et on visualise la liste de ses films.
+ 
   ![Screenshot page examen](captures/cine3.PNG)
   
 ## Portail restaurant
-Ceci est le forumulaire de création d'un portail de restauration contenant plusieurs fiches avec les coordonnées, les menus et la carte de chaque restaurant.
+> Ceci est le forumulaire de création d'un portail de restauration contenant plusieurs fiches avec les coordonnées, les menus et la carte de chaque restaurant.
+
   ![Screenshot page examen](captures/fiche1.PNG)
   
-  On voit qu'on a la possibilité de créer plusieurs fiche.
+ > On voit qu'on a la possibilité de créer plusieurs fiche.
+ 
   ![Screenshot page examen](captures/fiche2.PNG)
   
-  Après avoir rempli et valider le formulaire, on est redirigé vers la page où se trouve en détails la liste des restaurants avec leurs coordonnées, leurs meunus et leur carte.
+ > Après avoir rempli et valider le formulaire, on est redirigé vers la page où se trouve en détails la liste des restaurants avec leurs coordonnées, leurs meunus et leur carte.
+ 
   ![Screenshot page examen](captures/fiche3.PNG)
 
 ## Project Status 
-Complete 
+      Complete 
