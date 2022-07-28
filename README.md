@@ -2,7 +2,14 @@
 > Ce projet consiste à gérer des programmes de cinéma, des examens et des fiches de restaurant. 
 On a deux profils : un administrateur, qui peut créer des fichiers représentant chacun un programme de cinéma, une description de restaurant ou un examen et qui sont valides par rapport aux DTD/Schémas et un visiteur qui peut visualiser un programme de cinéma, une description de restaurant ou un examen.
 
-# Screenshots
+# XML's screenshots
+## Examen
+
+## Cinéma
+
+## Portail restaurant 
+
+# Result's screenshots
 ## Examen
   Ici on a le formulaire de création d'un examen contenant des informations générales sur l'examen et la liste des exercices.
   ![Screenshot page examen](captures/exam1.PNG)
@@ -23,7 +30,7 @@ Ceci est le formulaire de création d'un programme de cinéma contenant toutes l
   Lorsqu'on valide, on est redirigé vers la page d'affichage des programmes de cinéma. On en choisi un et on visualise la liste de ses films.
   ![Screenshot page examen](captures/cine3.PNG)
   
-## Portail
+## Portail restaurant
 Ceci est le forumulaire de création d'un portail de restauration contenant plusieurs fiches avec les coordonnées, les menus et la carte de chaque restaurant.
   ![Screenshot page examen](captures/fiche1.PNG)
   
