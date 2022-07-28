@@ -7,7 +7,8 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 #### DTD
   ![Screenshot DTD examen](captures/exo6DTD.png)
 #### Schéma
-  ![Screenshot schéma examen](captures/exo6Schema.png)
+  ![Screenshot schéma examen](captures/exo6Schema1.png)
+  ![Screenshot schéma examen](captures/exo6Schema2.png)
   
 ## Cinéma
 #### DTD
@@ -19,7 +20,8 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 #### DTD
   ![Screenshot DTD examen](captures/exo7DTD.png)
 #### Schéma
-  ![Screenshot schéma examen](captures/exo7Schema.png)
+  ![Screenshot schéma examen](captures/exo7Schema1.png)
+  ![Screenshot schéma examen](captures/exo7Schema2.png)
 
 # Result's screenshots
 ## Examen
