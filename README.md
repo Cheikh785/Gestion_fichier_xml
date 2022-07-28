@@ -5,9 +5,9 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 # XML's screenshots
 ## Examen
 #### DTD
-  ![Screenshot DTD examen](captures/exo2DTD.PNG)
+  ![Screenshot DTD examen](captures/exo2DTD.png)
 #### Schéma
-  ![Screenshot schéma examen](captures/exo2Schema.PNG)
+  ![Screenshot schéma examen](captures/exo2Schema.png)
 ## Cinéma
 
 ## Portail restaurant 
