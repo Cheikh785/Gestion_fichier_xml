@@ -85,6 +85,4 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
 <br>
 
 ## Project Status 
-      * Complete *
-
-*****************
+      Complete 
