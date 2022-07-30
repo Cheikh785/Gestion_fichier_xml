@@ -12,6 +12,7 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot schéma examen](captures/exo6Schema2.png) 
 
 <br> 
+
 ## Cinéma
       DTD
   ![Screenshot DTD examen](captures/exo2DTD.png)
@@ -20,6 +21,7 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot schéma examen](captures/exo2Schema.png)
   
 <br>  
+
 ## Portail restaurant 
     DTD
   ![Screenshot DTD examen](captures/exo7DTD.png)
@@ -48,6 +50,7 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot page examen](captures/exam3.PNG)
   
 <br>  
+
 ## Cinéma 
 > Ceci est le formulaire de création d'un programme de cinéma contenant toutes les informations nécéssaires relatives au film.
 
@@ -62,6 +65,7 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot page examen](captures/cine3.PNG)
   
 <br>    
+
 ## Portail restaurant
 > Ceci est le forumulaire de création d'un portail de restauration contenant plusieurs fiches avec les coordonnées, les menus et la carte de chaque restaurant.
 
