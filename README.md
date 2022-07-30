@@ -12,6 +12,7 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
   ![Screenshot schéma examen](captures/exo6Schema2.png) 
 
 <br>  
+
 ******
 <br>
 
