@@ -78,8 +78,13 @@ On a deux profils : un administrateur, qui peut créer des fichiers représentan
  > Après avoir rempli et valider le formulaire, on est redirigé vers la page où se trouve en détails la liste des restaurants avec leurs coordonnées, leurs meunus et leur carte.
  
   ![Screenshot page examen](captures/fiche3.PNG)
+  
+<br>  
+
+******
+<br>
 
 ## Project Status 
-      *Complete*
+      * Complete *
 
 *****************
