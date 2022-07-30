@@ -36,7 +36,7 @@
                                     </xsd:restriction>
                                 </xsd:simpleType>
                             </xsd:element>
-                        </xsd:sequence>
+                   </xsd:sequence>
                     </xsd:complexType>
                 </xsd:element>
                 <xsd:element name="exercie" minOccurs="10" maxOccurs="11">
