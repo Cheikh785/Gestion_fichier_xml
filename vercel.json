@@ -1,6 +1,6 @@
 {
   "functions": {
-    "Gestion_fichier_xml/*.php": {
+    "./*.php": {
       "runtime": "vercel-php@0.5.1"
     }
   }
